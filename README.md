@@ -61,7 +61,4 @@ LinkedIn--Akansha Gupta
 This project is licensed under the MIT License.
 
 
-Download the Power BI File
-  You can download the Power BI `.pbix` file and view the report in Power BI Desktop:
-   - [Download Power BI Dashboard]("C:\91965\Users\OneDrive\Documents\akansha\Pbi dashboard\virat_kohli_dashboard.pbix
-")
+
