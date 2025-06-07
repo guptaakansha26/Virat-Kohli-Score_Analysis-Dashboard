@@ -57,8 +57,7 @@ Akansha Gupta
 GitHub Profile--guptaakansha26
 LinkedIn--Akansha Gupta
 
-📄 License
-This project is licensed under the MIT License.
+
 
 
 
