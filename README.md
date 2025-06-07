@@ -34,7 +34,7 @@ virat-kohli-powerbi-dashboard/
 │   └── dashboard_screenshot.png        # Screenshots of Power BI report
 ├── Virat_Kohli_Dashboard.pbix          # Power BI report file
 ├── README.md
-└── LICENSE
+
 
 🧾 Data Source
     📥   Kaggle Dataset - Virat Kohli Career Stats
